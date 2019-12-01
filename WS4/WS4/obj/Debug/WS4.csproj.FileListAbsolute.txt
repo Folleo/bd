@@ -1,0 +1,14 @@
+C:\Users\dkuzu\source\repos\WS4\WS4\bin\Debug\WS4.exe.config
+C:\Users\dkuzu\source\repos\WS4\WS4\bin\Debug\WS4.exe
+C:\Users\dkuzu\source\repos\WS4\WS4\bin\Debug\WS4.pdb
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.csprojAssemblyReference.cache
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.Form1.resources
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.FormUsers.resources
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.Properties.Resources.resources
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.csproj.GenerateResource.cache
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.csproj.CoreCompileInputs.cache
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.exe
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.pdb
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.FormOrders.resources
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.FormProducts.resources
+C:\Users\dkuzu\source\repos\WS4\WS4\obj\Debug\WS4.FormAuth.resources
